@@ -44,11 +44,4 @@ Follow the on-screen prompts to enter weather parameters for real-time predictio
 - Decision Trees.py outputs a classification report, a confusion matrix (with heatmap visualization), a feature importance bar chart, and a learning curve.
 - SVM Algorithm.py displays training time, a classification report, a confusion matrix, and a feature importance visualization.
 
-## Future Improvements
-- Explore additional machine learning algorithms and ensemble methods
-- Enhance data preprocessing and feature engineering techniques
-- Develop a graphical user interface (GUI) for better user experience
-- Optimize model performance for improved prediction accuracy
-
-
 
