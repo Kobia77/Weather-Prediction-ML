@@ -37,6 +37,7 @@ Kobia77 Weather Prediction AI is a machine learning project developed in my thir
 ```  python "Decision Trees.py"```
 - Run the SVM Model:
 ```  python "SVM Algorithm.py"```
+
 Follow the on-screen prompts to enter weather parameters for real-time predictions.
 
 ## Results and Evaluation
